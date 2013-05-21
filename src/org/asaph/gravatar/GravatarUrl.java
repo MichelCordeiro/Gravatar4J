@@ -1,5 +1,5 @@
 /*
- * Copyright 2009 Asaph Engel
+ * Copyright 2009 asaph.org
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -39,7 +39,7 @@ import java.io.Serializable;
  * 
  * <blockquote><pre><code>http://www.gravatar.com/avatar/3b3be63a4c2a439b013787725dfce802.jpg?s=512&amp;r=pg&amp;d=identicon</code></pre></blockquote></p>
  * 
- * @author Asaph Engel
+ * @author asaph
  */
 public class GravatarUrl implements Serializable {
 	/**

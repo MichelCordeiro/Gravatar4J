@@ -1,5 +1,5 @@
 /*
- * Copyright 2010 Asaph Engel
+ * Copyright 2010 asaph.org
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -24,7 +24,7 @@ import java.security.NoSuchAlgorithmException;
 /**
  * A helper class containing static methods to help with miscelaneous encodings.
  * 
- * @author Asaph Engel
+ * @author asaph
  *
  */
  class EncodingHelper {

@@ -1,5 +1,5 @@
 /*
- * Copyright 2009 Asaph Engel
+ * Copyright 2009 asaph.org
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -27,7 +27,7 @@ import org.junit.Test;
 /**
  * A JUnit4 test class for GravatarUrl
  * 
- * @author Asaph Engel
+ * @author asaph
  */
 public class GravatarUrlTest {
 
